@@ -1,3 +1,5 @@
+/** @jsx jsx */
+import { jsx } from 'theme-ui'
 import React from "react"
 import { Link } from "gatsby"
 
@@ -59,6 +61,28 @@ const Layout = ({ location, title, children }) => {
       }}
     >
       <header>{header}</header>
+
+      <div sx={{
+        color: 'text', 
+        padding: 2, 
+        fontSize: 0
+      }}>Theme UI sample</div>
+      <div sx={{
+        color: 'background', 
+        padding: 2, 
+        fontSize: 1
+      }}>Theme UI sample</div>
+      <div sx={{
+        color: 'primary', 
+        padding: 2, 
+        fontSize: 2
+      }}>Theme UI sample</div>
+      <div sx={{
+        color: 'secondary', 
+        padding: 2, 
+        fontSize: 3
+      }}>Theme UI sample</div>
+      
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, Built with
