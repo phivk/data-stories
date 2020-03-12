@@ -64,21 +64,31 @@ const Layout = ({ location, title, children }) => {
 
       <div sx={{
         color: 'text', 
+        backgroundColor: 'background', 
         padding: 2, 
         fontSize: 0
       }}>Theme UI sample</div>
       <div sx={{
         color: 'background', 
+        backgroundColor: 'primary', 
         padding: 2, 
         fontSize: 1
       }}>Theme UI sample</div>
       <div sx={{
         color: 'primary', 
+        backgroundColor: 'background', 
         padding: 2, 
         fontSize: 2
       }}>Theme UI sample</div>
       <div sx={{
         color: 'secondary', 
+        backgroundColor: 'background', 
+        padding: 2, 
+        fontSize: 3
+      }}>Theme UI sample</div>
+      <div sx={{
+        color: 'accent', 
+        backgroundColor: 'background', 
         padding: 2, 
         fontSize: 3
       }}>Theme UI sample</div>
