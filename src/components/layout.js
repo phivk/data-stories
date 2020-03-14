@@ -1,6 +1,8 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
 import { Link } from "gatsby"
+import logo from "../../content/assets/logo-media_suite-landscape-light-notext.png"
+
 
 const Layout = ({ location, title, children }) => {
   return (
@@ -12,12 +14,13 @@ const Layout = ({ location, title, children }) => {
           backgroundColor: 'primary',
           p:3,
         }}>
-        <Link to='/'
-          sx={{
-            variant: 'text.navlink',
-            lineHeight: 3
-          }}>
-          LOGO
+        <Link to='/'>
+          <img src={logo} alt="Media Suite Logo"
+            sx={{
+              width: 5,
+              margin: 0,
+            }}
+          />
         </Link>
         <div sx={{ mx: 'auto' }} />
         <Link to='/about'
