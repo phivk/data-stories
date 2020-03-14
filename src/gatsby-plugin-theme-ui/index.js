@@ -6,7 +6,7 @@ export default {
     primary: '#2D343A',
     secondary: '#468DCB',
     accent: '#F26C50',
-    muted: '#f6f6f6',
+    muted: '#a9b4bd',
   },
   space: [
     0,
@@ -43,6 +43,14 @@ export default {
   lineHeights: {
     body: 1.5,
     heading: 1.125
+  },
+  // variants for links / anchors
+  text: {
+    navlink: {
+      textDecoration: 'none',
+      color: 'muted',
+      p: 3,
+    }
   },
   styles: {
     root: {
