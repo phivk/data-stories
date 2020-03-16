@@ -1,4 +1,6 @@
 // custom theme exported via https://theme-ui.com/customize
+import { alpha } from '@theme-ui/color'
+
 export default {
   colors: {
     text: '#000',
@@ -63,7 +65,7 @@ export default {
       p: 3,
     },
     onimage: {
-      backgroundColor: 'primary',
+      backgroundColor: alpha('primary', 0.8),
       color: 'white',
       p: 2,
     },
