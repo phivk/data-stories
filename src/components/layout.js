@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
 import { Link } from "gatsby"
+import Hero from "../components/hero"
 import logo from "../../content/assets/logo-media_suite-landscape-light-notext.png"
 
 
@@ -42,7 +43,7 @@ const Layout = ({ location, title, children }) => {
           Twitter
         </a>
       </header>
-      
+      <Hero />
       <main
         sx={{
           maxWidth: 768,

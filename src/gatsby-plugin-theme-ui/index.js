@@ -61,6 +61,14 @@ export default {
       textDecoration: 'none',
       color: 'muted',
       p: 3,
+    },
+    onimage: {
+      backgroundColor: 'primary',
+      color: 'white',
+      p: 2,
+    },
+    link: {
+      color: 'accent'
     }
   },
   styles: {
