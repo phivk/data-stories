@@ -8,6 +8,7 @@ module.exports = {
       twitter: `mediasuite_nl`,
     },
   },
+  pathPrefix: "/data-stories",
   plugins: [
     "gatsby-plugin-theme-ui",
     {
