@@ -1,6 +1,5 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui'
-import React from "react"
 import heroimg from "../../content/assets/hero.jpg"
 import { Link } from "gatsby"
 
