@@ -1,14 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Media Suite Data Stories`,
+    author: `Beeld en Geluid Labs`,
+    description: `Stories from Dutch multimedia archives, powered by the Media Suite`,
+    siteUrl: `https://mediasuite.clariah.nl/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `mediasuite_nl`,
     },
   },
   plugins: [

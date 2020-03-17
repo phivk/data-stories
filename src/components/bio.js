@@ -22,10 +22,7 @@ const Bio = () => {
       }
       site {
         siteMetadata {
-          author {
-            name
-            summary
-          }
+          author
           social {
             twitter
           }
@@ -43,7 +40,7 @@ const Bio = () => {
     >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
+        alt={author}
         style={{
           marginBottom: 0,
           minWidth: 50,
@@ -54,7 +51,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        Written by <strong>{author}</strong>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
