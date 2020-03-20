@@ -58,12 +58,4 @@ De Media Suite is een online omgeving, ontwikkeld door CLARIAH en Beeld en Gelui
 
 Was het altijd gezellig in de studio? Nee, zo had Matthijs van Nieuwkerk ook wel eens een aanvaring. Peter R. de Vries, Frits Spits. Rob Oudkerk [voorbeelden]
 
-Op de Nederlandse televisie bliepen we schutwoorden niet weg. Hoeveel onvertogen woorden vielen er eigenlijk? 
-
-- Fuck
-- Geslachtsdelen m/v
-- Godverdomme
-- Ziektes
-- Iets met Jezus: allejezus, Djezus (English pronounciation)
-
 27 maart is/was echt de laatste uitzending. Aan alles komt een eind, maar vergeet niet: de wereld draait doorrrrrrrrrrrrrrr...
