@@ -33,7 +33,7 @@ Hoewel er verschillende andere presentatoren de revue passeerden (Francisco van 
 *[Haakje. Iets over deze timeframe.] Beweeg je cursor over deze tijdlijn en zie hoe het DWDD openingsshot met Matthijs van Nieuwkerk door de jaren heen veranderd is. Hoeveel grijze haren of rimpels kreeg Matthijs van Nieuwkerk er door de jaren heen bij? [...]*
 
 
-<iframe src='https://public.flourish.studio/visualisation/1472683/embed' frameborder='0' scrolling='no' style='width:100%;height:530px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/1655704/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 ## Een van de invloedrijkste en populairste programma’s in de Nederlandse tv-geschiedenis. Waarom?
 
@@ -46,11 +46,13 @@ Hoewel er verschillende andere presentatoren de revue passeerden (Francisco van 
 
 ## Powered by Media Suite
 
-Er zitten schatten aan informatie in het archief van Beeld en Geluid, niet alleen tastbaar, maar ook in de metadata. Informatie over informatie. Met de Media Suite kunnen we metadata [uitleggen wat we precies doen]
+De Media Suite is een online omgeving, ontwikkeld door CLARIAH en Beeld en Geluid. Deze omgeving bevat diverse multimediale collecties, verrijkt met tekst- en spraakherkenning. In de Media Suite kan je bijvoorbeeld alle DWDD afleveringen bekijken, maar ook zoeken naar een specifieke selectie: op basis van uitzenddatum, gast, onderwerp, zelfs een beruchte uitspraak.
+
+Snel inzoomen op een gewenste aflevering is één kant van de Media Suite. Maar wat als je juist een stap terug wilt nemen om het grotere geheel te zien? Daar komt de kracht van data naar voren. Door de metadata te analyseren, kan je patronen vinden die wijzen op trends, of juist een anomalie die je aandacht trekt. De data visualisaties in deze blog geven een beeld van DWDD als geheel - wat waren de grote thema's, wat voor gasten kwamen langs? En ze onthullen ook bijzonderheden voor verder onderzoek - waarom sprak Matthijs van Nieuwkerk zo weinig in de aflevering van 8 maart 2018? Hoe kwam het dat castratie een keer ter sprake is gekomen? **NB: sync dit met de 'rare' onderwerpen in de tekst van Muriel**
  
-Vanaf 2005 kunnen we data afleiden uit … Vanaf 2014 gaat het via spraakherkenning en analyse van ondertiteling. Hoe kunnen we bijvoorbeeld het verschil zien tussen een genodigde van DWDD en iemand die besproken wordt in een clip? Voor grote lijnen maakt het niet zoveel uit. Je ziet dat door de jaren heen de manier van metadata invoeren is veranderd. [...]
- 
-De Media Suite is een online omgeving, ontwikkeld door CLARIAH en Beeld en Geluid. Deze omgeving maakt het mogelijk onderzoek uit te voeren met grootschalige multimediale erfgoedcollecties.
+Data is echter geen zuivere drager van de waarheid, maar wordt gekleurd door de processen waarmee het is verzameld. Tot 2015 werden DWDD afleveringen handmatig voorzien van metadata door een expert. Sinds die tijd worden veel metadata automatisch gemaakt, bijvoorbeeld door stemmen of gezichten te herkennen. Dit heeft grote gevolgen. Handmatige metadata is van hele goede kwaliteit, we weten bijvoorbeeld zeker dat als iemand als gast staat genoteerd dat hij daadwerkelijk in het programma was. Maar stel voor dat er iemand tussenzat die toen onbelangrijk was maar later beroemd is geworden - die persoon zal waarschijnlijk niet door de expert zijn opgemerkt. Met automatische processen kunnen we veel meer metadata maken, dus als iemand een paar zinnen heeft gesproken, vinden we hem al terug. Sterker nog, we kunnen zelfs meten hoe lang en hoe vaak hij aan het woord is geweest, en wat hij heeft gezegd. Maar was die persoon een gast op het programma, of verscheen hij alleen in een clip? En hoe zeker zijn we dat hij het was? De algoritmes zijn niet perfect, en ook nog niet slim genoeg om abstracte concepten zoals 'onderwerp' te herkennen - om die reden zie je recente onderwerpen zoals 'coronavirus' niet terug in het onderwerpenoverzicht van DWDD.
+
+Om de complexe boodschap van data te ontwarren bieden we in de Media Suite ondersteuning in het begrijpen van de afkomst van de data, zodat onderzoekers de juiste conclusies kunnen trekken. 
 
 - Nog verder uitwerken Top 5 kijkcijfers (via poll?)
 - Best bekeken uitzending linkje met corona
