@@ -34,8 +34,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <Timelens 
-          timeline = "/timelens/PGMTV2000612871.mp4.timeline.jpg"
-          thumbnails = "/timelens/thumbnails.vtt"
+          timeline = "/timelens/PGMTV2000612871/PGMTV2000612871.mp4.timeline.jpg"
+          thumbnails = "/timelens/PGMTV2000612871/thumbnails.vtt"
         />
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
