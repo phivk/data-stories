@@ -12610,6 +12610,10 @@ timed-out@^4.0.0, timed-out@^4.0.1:
   resolved "https://registry.yarnpkg.com/timed-out/-/timed-out-4.0.1.tgz#f32eacac5a175bea25d7fab565ab3ed8741ef56f"
   integrity sha1-8y6srFoXW+ol1/q1Zas+2HQe9W8=
 
+"timelens@https://github.com/alexabruck/timelens.js.git":
+  version "0.2.1"
+  resolved "https://github.com/alexabruck/timelens.js.git#900ca7f7dcf6df6fb78b1cf7cbc7d26ec893c531"
+
 timers-browserify@^2.0.4:
   version "2.0.11"
   resolved "https://registry.yarnpkg.com/timers-browserify/-/timers-browserify-2.0.11.tgz#800b1f3eee272e5bc53ee465a04d0e804c31211f"
