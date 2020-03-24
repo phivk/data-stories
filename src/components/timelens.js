@@ -5,11 +5,11 @@ import '../../node_modules/timelens/timelens.css';
 class Timelens extends Component {
   componentDidMount() {
     timelens("#timelens", {
-      timeline: "/timelens/PGMTV2000612871.mp4.timeline.jpg",
-      thumbnails: "/timelens/thumbnails.vtt"
+      timeline: this.props.timeline,
+      thumbnails: this.props.thumbnails
     });
   }
-  render(props) {
+  render() {
     return (
       <div id="timelens"></div>
     )
